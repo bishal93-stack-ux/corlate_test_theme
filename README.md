@@ -2,5 +2,5 @@
 Test wordpress theme
  
  
-# For images to display in the theme please upload media folder in the root directory of the wordpress installation.
+ For images to display in the theme please upload media folder in the root directory of the wordpress installation.
 
